@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-## Durume's Github
+## WOOSUNG's Github
 안녕하세요! Java, C#, C++을 다루는 게임 개발자 장우성입니다.
 <br>
 실력이 많이 부족합니다. 배울것도 많습니다.
