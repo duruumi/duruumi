@@ -34,7 +34,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/C#-280068.svg?style=for-the-badge&logo=C#&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=#C00000" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
 
 <div align="left">
