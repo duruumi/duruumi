@@ -5,13 +5,14 @@
 
 <!--내용 부분-->
 ## WOOSUNG's Github 
-<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjus0124?color=blue&label=hits&size=small&base_count=1" alt="hits" /></a>
+
 안녕하세요! Java, C#, C++을 다루는 게임 개발자 장우성입니다.
 <br>
 실력이 많이 부족합니다. 배울것도 많습니다.
 <br>
 항상 배우겠다는 마음가짐을 바탕으로 게임을 만드는 개발자가 되기 위해 끊임없이 노력하고 있습니다.
-
+<br>
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjus0124?color=blue&label=hits&size=small&base_count=1" alt="hits" /></a>
 <br/>
 
 ## Project
