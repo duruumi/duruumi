@@ -1,4 +1,4 @@
-## 수정중
+## 수정중 / Modifying
 <br>
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjus0124?color=blue&label=HelloWorld!&size=large&base_count=1" alt="hits" /></a>
 
