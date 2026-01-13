@@ -1,4 +1,6 @@
 ## 수정중
+<br>
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjus0124?color=blue&label=HelloWorld!&size=small&base_count=996" alt="hits" /></a>
 
 <div align="center">
 </div>
@@ -11,8 +13,8 @@
 실력이 많이 부족합니다. 배울것도 많습니다.
 <br>
 항상 배우겠다는 마음가짐을 바탕으로 게임을 만드는 개발자가 되기 위해 끊임없이 노력하고 있습니다.
-<br>
-<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjus0124?color=blue&label=hello&size=small&base_count=996" alt="hits" /></a>
+
+
 <br/>
 
 ## Project
@@ -30,6 +32,8 @@
 - 2024 서울 열린데이터광장 공공데이터 활용 창업경진대회
 
 <br/>
+
+
 
 
 ## Tech Stack
