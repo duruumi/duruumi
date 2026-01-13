@@ -5,7 +5,7 @@
 
 <!--내용 부분-->
 ## WOOSUNG's Github
-
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjus0124?color=blue&label=hits&size=small&base_count=1" alt="hits" /></a>
 출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 안녕하세요! Java, C#, C++을 다루는 게임 개발자 장우성입니다.
 <br>
