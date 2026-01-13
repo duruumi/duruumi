@@ -14,8 +14,14 @@
 <br/>
 
 ## Project
-| 기간 | 프로젝트명 | 설명 | 역할 | 형태 |
-|-----|---------|-----|-----|-----|
+| 프로젝트명 | 설명 | 역할 | 형태 |
+|---------|-----|-----|-----|
+|데이터베이스를 이용한 쇼핑몰|-----|-----|-----|
+|약 관련 어플|-----|-----|-----|
+|서울시 데이터를 이용한 재난지도|-----|-----|-----|
+|유니티를 이용한 VR 리듬 FPS 게임|-----|-----|-----|
+|유니티를 이용한 2D FPS 게임|-----|-----|-----|
+
 <br/>
 
 ## Activities
@@ -29,12 +35,11 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=#C00000" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
