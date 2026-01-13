@@ -103,7 +103,7 @@
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/discord/users/426424437047558154" />
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:jus012433@gmail.com">
     <img
       src="https://img.shields.io/badge/jus012433@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
