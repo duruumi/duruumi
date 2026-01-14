@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjus0124?color=blue&label=HelloWorld!&size=large&base_count=1" alt="hits" /></a>
+  <p align=center><img src="https://komarev.com/ghpvc/?username=jus0124&style=for-the-badge&color=c15049&label=Visited+People" alt="Profile Views" /></p>
 </div>
 
 <!--내용 부분-->
