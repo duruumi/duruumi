@@ -115,7 +115,7 @@
   <a href="https://discord.gg/WvxKrxSx">
     <img src="https://img.shields.io/badge/DUME-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://steamcommunity.com/id/duruumi/">
-    <img src="https://img.shields.io/badge/CHOMAE-171d25?style=for-the-badge&logo=steam&logoColor=white" />
+    <img src="https://img.shields.io/badge/DURUMI-171d25?style=for-the-badge&logo=steam&logoColor=white" />
   <a href="mailto:jus012433@gmail.com">
     <img src="https://img.shields.io/badge/jus012433@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     
