@@ -122,8 +122,6 @@
     </picture>
 </div>
 
-<br>
-
 <div align="left">
   <picture>
   <img src="https://img.shields.io/badge/VSCode-3578E5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
