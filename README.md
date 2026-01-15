@@ -1,6 +1,4 @@
-## 수정중 / Modifying
-<br>
-
+## Welcome to the GitHub of the DURUUMI!
 
 <div align="center">
   <picture>
