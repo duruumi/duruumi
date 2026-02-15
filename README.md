@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/C%23-390091?style=for-the-badge&logo=Csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-C00000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   </picture>
 </div>
 
@@ -94,6 +93,7 @@
 <h3 align="left"> Studying </h3>
 <div align="left">
   <picture>
+  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/unrealengine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react%20query&logoColor=white" />
     </picture>
